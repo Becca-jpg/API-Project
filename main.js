@@ -46,7 +46,7 @@ const speak = () => {
     }
     if(textInput.value !== '') {
 
-        body.style.background = '#141414 url(text-n-speak/images/wavegif.gif)';
+        body.style.background = '#141414 url(images/wavegif.gif)';
         body.style.backgroundRepeat = 'repeat-x';
         body.style.backgroundSize = '100% 100%';
 
